@@ -4,3 +4,5 @@ The code in conversion_ggr.py will take scattered (longitude, latitude, amplitud
 It makes use of pyshtools least squares inversion (unweighted), see: https://shtools.github.io/SHTOOLS/index.html (Wieczorek & Meschede, 2018)
 
 The python script is modified from a file shared by S. Ghelichkhan: https://earthsciences.anu.edu.au/people/dr-sia-ghelichkhan.
+
+The data are the residual topographies from Holdt et al. (2022): https://doi.org/10.1029/2022JB024391.
