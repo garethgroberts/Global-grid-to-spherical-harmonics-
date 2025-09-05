@@ -1,5 +1,5 @@
 # Global-grid-to-spherical-harmonics-
-The code in conversion_ggr.py will take scattered data and generate spherical harmonic coefficients from it. 
+The code in conversion_ggr.py will take scattered (longitude, latitude, amplitude) data and generate spherical harmonic coefficients from it. 
 
 It makes use of pyshtools least squares inversion (unweighted), see: https://shtools.github.io/SHTOOLS/index.html (Wieczorek & Meschede, 2018)
 
